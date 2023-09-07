@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "<strong>PROTEJEAZA-ȚI TELEFONUL <\/strong>",
             "heading_size": "h0"
           }
         },
@@ -36,7 +36,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/fii_zen_tot_anul_Facebook_Cover.png",
-        "image_overlay_opacity": 10,
+        "image_overlay_opacity": 50,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
